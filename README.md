@@ -1,1 +1,3 @@
 # lojavirtual
+
+ALTERANDO VIA GITHUB
